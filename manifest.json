@@ -2,6 +2,7 @@
     "manifest_version":3,
     "name": "Procrastination Blocker",
     "version":"1.0",
+    "description":"This extentions blocks social media apps.",
     "content_scripts":[
         {
             "matches":["<all_urls>"],
